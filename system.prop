@@ -122,3 +122,10 @@ net.tcp.buffersize.hspa=6144,87380,524288,6144,163 84,262144
 net.tcp.buffersize.lte=524288,1048576,2097152,5242 88,1048576,2097152
 net.tcp.buffersize.hsdpa=6144,87380,1048576,6144,8 7380,1048576
 net.tcp.buffersize.evdo_b=6144,87380,1048576,6144, 87380,1048576
+
+# Spoof cod 144 fps Turbo+
+ro.product.model=V2417A
+ro.product.system.model=V2417A
+ro.product.vendor.model=V2417A
+ro.product.odm.model=V2417A
+ro.product.system_ext.model=V2417A
