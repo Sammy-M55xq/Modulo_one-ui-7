@@ -20,4 +20,3 @@ Optimize your experience, better manage RAM, and unlock features without impacti
 
 By @Samy_Snap
 ⚠️ If you encounter any errors, please report them.
-https://share.google/images/98wkati8pzCQZ72Xq
