@@ -1,4 +1,4 @@
-🔱 Samsung One UI Boost Final
+🔱 Samsung One UI Boost
 Version: 3.1.2
 
 ✨ Samsung One UI Port Module
